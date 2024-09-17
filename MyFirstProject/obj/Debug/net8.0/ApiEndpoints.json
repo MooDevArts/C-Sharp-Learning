@@ -20,6 +20,26 @@
     ]
   },
   {
+    "ContainingType": "MyFirstProject.Controllers.Q1Controller",
+    "Method": "Method2",
+    "RelativePath": "api/Q1/welcome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "MyFirstProject.Controllers.TestController",
     "Method": "Method1",
     "RelativePath": "api/Test/test1",

@@ -30,3 +30,4 @@ C:\Users\HIMANSHU\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\re
 C:\Users\HIMANSHU\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\MyFirstProject.pdb
 C:\Users\HIMANSHU\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\MyFirstProject.genruntimeconfig.cache
 C:\Users\HIMANSHU\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\ref\MyFirstProject.dll
+C:\Users\HIMANSHU\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net8.0\MyFirstProject.sourcelink.json
